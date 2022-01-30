@@ -1,0 +1,72 @@
+form {
+    width: 90%;
+    max-width: 300px;
+    background-color: #fff;
+    padding: 33px 40px;
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    border-radius: 10px;
+  }
+  
+  label {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 26px;
+    color: black;
+  }
+  
+  textarea {
+    background-color: #F9FBFC;
+    border: solid 2px #61DAFA;
+    border-radius: 5px;
+    color: #1E1E1F;
+    font-size: 20px;
+    text-align: center;
+    padding: 12px;
+    height: 96px;
+    width: calc(100%-25px);
+    outline: none;
+  }
+  
+  textarea::placeholder {
+  color: #a5a5a5;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  }
+  
+  textarea:focus {
+    outline-color: #61DAFA;
+  }
+  
+  .TodoForm-buttonContainer {
+    margin-top: 14px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .TodoForm-button {
+    cursor: pointer;
+    display: inline-block;
+    font-size: 20px;
+    color: #202329;
+    font-weight: 400;
+    width: 120px;
+    height: 48px;
+    border-radius: 2px;
+    border: none;
+    font-family: 'Montserrat';
+  }
+  
+  .TodoForm-button-add {
+    background-color: #61DAFA;
+    border-radius: 10px;
+  }
+  
+  .TodoForm-button-cancel {
+    background-color: rgb(209, 90, 90);
+    border-radius: 10px;
+  }
