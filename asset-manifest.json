@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TodoApp/static/css/main.873c17a3.chunk.css",
+    "main.js": "/TodoApp/static/js/main.befc044d.chunk.js",
+    "main.js.map": "/TodoApp/static/js/main.befc044d.chunk.js.map",
+    "runtime-main.js": "/TodoApp/static/js/runtime-main.8963d064.js",
+    "runtime-main.js.map": "/TodoApp/static/js/runtime-main.8963d064.js.map",
+    "static/js/2.e4c1a0ed.chunk.js": "/TodoApp/static/js/2.e4c1a0ed.chunk.js",
+    "static/js/2.e4c1a0ed.chunk.js.map": "/TodoApp/static/js/2.e4c1a0ed.chunk.js.map",
+    "index.html": "/TodoApp/index.html",
+    "static/css/main.873c17a3.chunk.css.map": "/TodoApp/static/css/main.873c17a3.chunk.css.map",
+    "static/js/2.e4c1a0ed.chunk.js.LICENSE.txt": "/TodoApp/static/js/2.e4c1a0ed.chunk.js.LICENSE.txt",
+    "static/js/main.befc044d.chunk.js.LICENSE.txt": "/TodoApp/static/js/main.befc044d.chunk.js.LICENSE.txt",
+    "static/media/check.fa4fb594.svg": "/TodoApp/static/media/check.fa4fb594.svg",
+    "static/media/delete.331149da.svg": "/TodoApp/static/media/delete.331149da.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8963d064.js",
+    "static/js/2.e4c1a0ed.chunk.js",
+    "static/css/main.873c17a3.chunk.css",
+    "static/js/main.befc044d.chunk.js"
+  ]
+}
